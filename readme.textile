@@ -1,0 +1,32 @@
+h1. Open Source List
+
+Goal of this page is to list open source projects and their current versions to make the life of package maintainers easier.
+
+If a project maintains multiple versions, all should be listed here (like postfix). Old unmaintained versions should be deleted from the list.
+
+Please send a pull request to add projects, fix versions, links, checksums, etc.
+
+|_. Project                                                   |_. Latest Version |_. State                |_. Download                                                                                |_. Checksum                                     |
+| "fail2ban":http://www.fail2ban.org                          | 0.9.1            | gamma                  | https://github.com/fail2ban/fail2ban/archive/0.9.1.tar.gz                                 | -                                              |
+| "FreeType":http://freetype.org                              | 2.5.5            | Stable Release         | http://download.savannah.gnu.org/releases/freetype/freetype-2.5.5.tar.gz                  | "sig":http://download.savannah.gnu.org/releases/freetype/freetype-2.5.5.tar.gz.sig |
+| "libgd":http://libgd.bitbucket.org                          | 2.1.1            | final release          | https://bitbucket.org/libgd/gd-libgd/downloads/libgd-2.1.1.tar.gz                         | -                                              |
+| "libtiff":http://www.remotesensing.org/libtiff/             | 4.0.4beta        | Stable Release         | http://download.osgeo.org/libtiff/tiff-4.0.4beta.tar.gz                                   | -                                              |
+| "libmcrypt"http://mcrypt.sourceforge.net                    | 2.5.8            |                        | http://downloads.sourceforge.net/project/mcrypt/Libmcrypt/2.5.8/libmcrypt-2.5.8.tar.gz    | -                                              |
+| "libpng":http://libpng.org/pub/png/libpng.html              | 1.6.16           | current public release | http://download.sourceforge.net/libpng/libpng-1.6.16.tar.gz                               | md5: 1a4ad377919ab15b54f6cb6a3ae2622d          |
+| "libpq5":http://www.postgresql.org                          | 9.4.1            |                        | https://ftp.postgresql.org/pub/source/v9.4.1/postgresql-9.4.1.tar.bz2                     | sha256: 29ddb77c820095b8f52e5455e9c6c6c20cf979b0834ed1986a8857b84888c3a6 | 
+| "libssh2":http://www.libssh2.org                            | 1.4.3            | latest release         | http://www.libssh2.org/download/libssh2-1.4.3.tar.gz                                      | "sig":http://www.libssh2.org/download/libssh2-1.4.3.tar.gz.asc |
+| "libyaml":http://pyyaml.org                                 | 0.1.6            | latest release         | http://pyyaml.org/download/libyaml/yaml-0.1.6.tar.gz                                      | -                                              |
+| "libXpm":http://www.x.org/wiki/Releases/7.3/                | 3.5.7            | latest release         | http://xorg.freedesktop.org/archive/individual/lib/libXpm-3.5.7.tar.bz2                   | sha1: 215208091051530867efae0a4c1cedb7385d5f0e |
+| "lzo":http://www.oberhumer.com/opensource/lzo/              | 2.09             | latest release         | http://www.oberhumer.com/opensource/lzo/download/lzo-2.09.tar.gz                          | sha1: e2a60aca818836181e7e6f8c4f2c323aca6ac057 |
+| "mhash":http://mhash.sourceforge.net                        | 0.9.9.9          | lastest version        | http://downloads.sourceforge.net/project/mhash/mhash/0.9.9.9/mhash-0.9.9.9.tar.gz         | -                                              |
+| "node.js":http://nodejs.org                                 | 0.12.0           |                        | http://nodejs.org/dist/v0.12.0/node-v0.12.0.tar.gz
+| "openfire":http://www.igniterealtime.org/projects/openfire/ | 3.9.3            |                        | http://www.igniterealtime.org/downloadServlet?filename=openfire/openfire_src_3_9_3.tar.gz | -                                              |
+| "OpenLDAP":http://www.openldap.org                          | 2.4.40           | Release                | http://www.openldap.org/software/download/OpenLDAP/openldap-release/openldap-2.4.40.tgz   | sha1: 851992b8757cf4c7a5c46699dc93efcb65c7662d |
+| "OpenVPN":http://openvpn.net                                | 2.3.6            |                        | https://github.com/OpenVPN/openvpn/archive/v2.3.6.tar.gz                                  | -                                              |
+| "PHP":http://php.net                                        | 5.6.6            | Current Stable         | http://php.net/get/php-5.6.6.tar.gz/from/this/mirror                                      | md5: 2baddcf979a0d4eb65434c4da3bd9cd3          |
+| "PHP":http://php.net                                        | 5.5.22           | Old Stable             | http://php.net/get/php-5.5.22.tar.gz/from/this/mirror                                     | md5: 89caa2614a7e0e7a41796d61869037ca          |
+| "PHP":http://php.net                                        | 5.4.38           | Old Stable             | http://php.net/get/php-5.4.38.tar.gz/from/this/mirror                                     | md5: 53ecd57da7b2243f8461e4fb8ce689a6          |
+| "postgresql":http://www.postgresql.org                      | 9.4.1            |                        | https://ftp.postgresql.org/pub/source/v9.4.1/postgresql-9.4.1.tar.bz2                     | sha256: 29ddb77c820095b8f52e5455e9c6c6c20cf979b0834ed1986a8857b84888c3a6 | 
+| "tuntap Solaris":https://github.com/kaizawa/tuntap          | 1.3.3            |                        | https://github.com/kaizawa/tuntap/archive/v1.3.3.tar.gz                                   | -                                              |
+
+(c) 2015 S. Husch | qutic development
